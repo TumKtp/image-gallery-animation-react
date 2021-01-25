@@ -1,0 +1,7 @@
+.c {
+  height: 300px;
+  width: 100%;
+  border-radius: 10px;
+  object-fit: cover;
+  border: 1px solid #ccc;
+}
